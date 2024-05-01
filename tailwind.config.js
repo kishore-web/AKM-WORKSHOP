@@ -9,6 +9,7 @@ export default {
       bgColor: "#2e3047",
       txColor: "#3bba9c",
       borderColor: "#707793",
+      txGray: "rgb(156 163 175)",
     },
     extend: {},
   },
